@@ -12,7 +12,7 @@ const config = {
   //    Puis collez ici l'URL directe du téléchargement.
   //    Exemple : https://github.com/votre-user/permis-facile/releases/latest/download/permis-facile.apk
   apkUrl:
-    'https://github.com/VOTRE_USERNAME/permis-facile-app/releases/latest/download/permis-facile.apk',
+    'https://github.com/Faromed/permis-facile-app/releases/download/1.0.0/permis-facile.apk',
 
   // ---- Contact ----
   contactEmail: 'serviceclientpermisfacile@gmail.com',

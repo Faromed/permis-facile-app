@@ -87,7 +87,10 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-xs text-gray-500">© {y} {config.appName}. Tous droits réservés.</p>
           <p className="text-xs text-gray-500 flex items-center gap-1">
-            Fait avec <Heart size={12} className="text-danger-500" /> au Bénin 🇧🇯
+            Développer par 
+            <span>
+                <a class='text-red-500 text-md text-base' href="https://wa.me/+22961228165">MDN Action</a>
+            </span> mdnaction1@gmail.com
           </p>
         </div>
       </div>
